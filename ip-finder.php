@@ -69,6 +69,9 @@
   </nav><!-- .nav-menu -->
 
   </div>
+<!-- author by: ./BabwaXgura
+     Version: 1.0.3
+     Curi aja gpp bwa -->
   </header><!-- End Header -->
   <font color="red">
 <main class="app-content">
